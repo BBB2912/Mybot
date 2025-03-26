@@ -1,0 +1,14 @@
+langchain-core
+langchain-groq
+langchain
+fastapi
+uvicorn
+python-dotenv
+langchain_google_genai
+groq
+speechrecognition
+requests
+pydub
+edge_tts
+streamlit
+streamlit_mic_recorder
