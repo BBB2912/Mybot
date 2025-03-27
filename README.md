@@ -13,10 +13,10 @@ if you have already account get your apikey
 
 Watch this video to learn how to create a Groq API key:
 
-![Groq API Key Tutorial](videoplayback.mp4)
+![Groq API Key Tutorial](./videoplayback.mp4)
 
 click on this live demo give your apikey and know about mahendra kumar reddy
-🚀 **Live Demo:** [\[Your Streamlit Link Here\]](https://bbb2912-mybot-app-9cac8r.streamlit.app/)
+🚀 **Live Demo:** https://bbb2912-mybot-app-9cac8r.streamlit.app/
 
 ---
 
