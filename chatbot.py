@@ -15,11 +15,11 @@ import re
 load_dotenv()
 
 class ChatBot:
-    def __init__(self):
+    def __init__(self,api_key):
         # Initialize LLM (Llama-3.3-70B Versatile)
         self.llm = ChatGroq(
             model_name="deepseek-r1-distill-llama-70b",
-            groq_api_key=os.getenv("GROQ_API_KEY"),
+            groq_api_key=api_key,
             temperature=0,
         )
         
