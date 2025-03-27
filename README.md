@@ -5,7 +5,18 @@ This is an AI-powered **Speech-to-Text & Voice Chatbot** built with **Streamlit*
 - Get responses from an AI chatbot
 - Convert AI responses to speech and play them at 1.25x speed
 
-🚀 **Live Demo:** [Your Streamlit Link Here]
+### How to Create a Groq API Key
+if you dont have account please go and crea te account [Groq](https://console.groq.com)
+
+if you have already account get your apikey 
+🔑 **Get Your API Key:** [Groq API Key](https://console.groq.com/keys)
+
+Watch this video to learn how to create a Groq API key:
+
+![Groq API Key Tutorial](videoplayback.mp4)
+
+click on this live demo give your apikey and know about mahendra kumar reddy
+🚀 **Live Demo:** [\[Your Streamlit Link Here\]](https://bbb2912-mybot-app-9cac8r.streamlit.app/)
 
 ---
 
@@ -38,7 +49,7 @@ Create a **.env** file in the project root and add:
 ```bash
 GROQ_API_KEY=your_api_key_here
 ```
-🔑 **Get Your API Key:** [Groq API Key](https://groq.com/api-keys)
+
 
 ### 5️⃣ Run the Streamlit App
 ```bash
