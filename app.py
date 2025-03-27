@@ -7,7 +7,7 @@ st.title("🎙️Talk with Mahendra Kumar Reddy")
 
 # Speech-to-Text
 api_key = st.text_input("Enter your API Key:", type="password")
-text = speech_to_text(language='en', use_container_width=True, just_once=True, key='STT',start_prompt="Ask question",stop_prompt="Generate response")
+text = speech_to_text(language='en', use_container_width=True, just_once=True, key='STT',start_prompt="Ask question",stop_prompt="Generate Answer")
 chatbot=ChatBot(api_key)
 tts=TTS()
 if text:
